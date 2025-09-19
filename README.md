@@ -1,7 +1,6 @@
-# Image-Retrieval
-Feel free to use the dataset for your own projects if needed. 
-A showcase of various image retrieval methods.
+# Image-Retrieval with VectorDB
 
-RUN THE CODE IN GOOGLE COLLAB (Select runtime type as GPU; it's good)
+## Methods for Image Retrieval
+
 # Please remember to run the code all at once or cell by cell.
 
